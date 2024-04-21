@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>ama bai</title>
+    <title>Laravel Crud Class</title>
     @vite('resources/css/app.css', 'resources/css/app.css')
 </head>
 <body>
