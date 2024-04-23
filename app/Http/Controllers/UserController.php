@@ -8,9 +8,17 @@ use App\Models\User;
 class UserController extends Controller
 {
 
+    public function home()
+    {
+        $users = User::all();
+        return $users;
+
+        return view('welcome', compact('users'));
+    }
     public function create()
     {
-        return view('create');
+        $users = User::all();
+        return view('create', compact('users'));
     }
 
     public function store(Request $request)
@@ -25,6 +33,6 @@ class UserController extends Controller
 
 
         return redirect('/');
-        
+
     }
 }
