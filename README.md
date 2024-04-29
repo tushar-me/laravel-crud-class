@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tusharimran.site/](https://tusharimran.site/)
 
-- 💬 Ask me about **Laravel Design Patterns,  Frontend Framworks**
+- 💬 Ask me about **Laravel Design Patterns,  Frontend Frameworks,  Web Developments**
 
 - 📫 How to reach me **tusharimran.developer@gmail.com**
 
