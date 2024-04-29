@@ -46,7 +46,7 @@
 
 ## Usage/Examples
 
-```php
+```ruby
 import Component from 'my-project'
 
 function App() {
