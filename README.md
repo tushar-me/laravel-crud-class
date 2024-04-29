@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **Laravel Digging Deeper, Python, DevOps**
 
-- 💬 Ask me about **Laravel, Vuejs, Nuxtjs, Nextjs**
+- 👨‍💻 All of my projects are available at [https://tusharimran.site/](https://tusharimran.site/)
+
+- 💬 Ask me about **Laravel Vuejs Nuxtjs Nextjs**
 
 - 📫 How to reach me **tusharimran.developer@gmail.com**
 
