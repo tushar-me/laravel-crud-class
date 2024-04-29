@@ -45,11 +45,25 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-me&" alt="tushar-me" /></p>
 
 ## Usage/Examples
-
 ```php
-import Component from 'my-project'
+public function storeProduct(ProductRequest $req)
+{
 
-function App() {
-  return <Component />
+    $data = $req->validated();
+    $data['user_id'] = Auth::id();
+    $product = Product::create($data);
+
+
+    $images = request()->images;
+
+    $imageData = [];
+    foreach( $images as $image){
+        $imageData[] = [
+            'url' => '/storage/'.$image['file']->store('uploads', 'public'),
+            'product_id' => $product->id
+        ];
+    }
+    Image::insert($imageData);
+    return to_route('product.all');
 }
 ```
