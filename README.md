@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tusharimran.site/](https://tusharimran.site/)
 
-- 💬 Ask me about **Laravel  Vuejs  Nuxtjs Nextjs**
+- 💬 Ask me about **Laravel Design Patterns,  Frontend Framworks**
 
 - 📫 How to reach me **tusharimran.developer@gmail.com**
 
