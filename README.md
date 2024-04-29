@@ -46,7 +46,7 @@
 
 ## Usage/Examples
 
-```ruby
+```css
 import Component from 'my-project'
 
 function App() {
