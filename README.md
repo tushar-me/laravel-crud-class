@@ -46,7 +46,7 @@
 
 ## Usage/Examples
 
-```javascript
+```php
 import Component from 'my-project'
 
 function App() {
