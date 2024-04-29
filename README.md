@@ -46,7 +46,7 @@
 
 ## Usage/Examples
 
-```python
+```javascript
 import Component from 'my-project'
 
 function App() {
