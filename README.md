@@ -46,7 +46,7 @@
 
 ## Usage/Examples
 
-```css
+```php
 import Component from 'my-project'
 
 function App() {
