@@ -2,7 +2,7 @@
 <h3 align="center">A Professional Software Engineer</h3>
 
 
-
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-me&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-me" /> </p>
 - 🌱 I’m currently learning **Laravel Digging Deeper, Python, DevOps**
 
 - 👨‍💻 All of my projects are available at [https://tusharimran.site/](https://tusharimran.site/)
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tusharimran.developer@gmail.com**
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-me&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-me" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar-me" alt="tushar-me" /></a> </p>
 
