@@ -43,3 +43,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-me&show_icons=true&locale=en" alt="tushar-me" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-me&" alt="tushar-me" /></p>
+
+## Usage/Examples
+
+```python
+import Component from 'my-project'
+
+function App() {
+  return <Component />
+}
+```
