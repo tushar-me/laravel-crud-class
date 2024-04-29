@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Imran</h1>
 <h3 align="center">A Professional Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-me&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-me" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar-me" alt="tushar-me" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Laravel Digging Deeper, Python, DevOps**
 
@@ -14,6 +10,12 @@
 - 💬 Ask me about **Software Development with Laravel, Laravel Design Patterns,  Frontend Frameworks**
 
 - 📫 How to reach me **tusharimran.developer@gmail.com**
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-me&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-me" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar-me" alt="tushar-me" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
