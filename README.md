@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tushar Imran</h1>
 <h3 align="center">A Full Stack Software Engineer</h3>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=tushar-me&](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)"  /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-me&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-me" /> </p>
@@ -43,27 +44,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-me&show_icons=true&locale=en" alt="tushar-me" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-me&" alt="tushar-me" /></p>
-
-## Usage/Examples
-```php
-public function storeProduct(ProductRequest $req)
-    {
-
-        $data = $req->validated();
-        $data['user_id'] = Auth::id();
-        $product = Product::create($data);
-
-
-        $images = request()->images;
-
-        $imageData = [];
-        foreach( $images as $image){
-            $imageData[] = [
-                'url' => '/storage/'.$image['file']->store('uploads', 'public'),
-                'product_id' => $product->id
-            ];
-        }
-        Image::insert($imageData);
-        return to_route('product.all');
-    }
-```
